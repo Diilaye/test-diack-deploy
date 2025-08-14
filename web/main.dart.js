@@ -121202,7 +121202,7 @@ A.aT2.prototype={
 $1(a){a.a1(0).ab(new A.aT1(),t.P)},
 $S:54}
 A.aT1.prototype={
-$1(a){if(a)$.agF().nb("open",["https://test-diack.nataal.shop/","_self"])},
+$1(a){if(a)$.agF().nb("open",["https://test-diag.saharux.com/","_self"])},
 $S:19}
 A.RJ.prototype={
 bE(){this.c4()
