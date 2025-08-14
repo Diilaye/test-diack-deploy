@@ -114460,7 +114460,7 @@ $1(a){if(a)A.fA().ab(new A.al5(),t.P)},
 $S:19}
 A.al5.prototype={
 $1(a){a.a1(0)
-$.agF().nb("open",["http://testing.simplonsolution.com/","_self"])},
+$.agF().nb("open",["https://test-diag.saharux.com/","_self"])},
 $S:54}
 A.Gf.prototype={
 Z(){return new A.a6T()}}
@@ -115344,7 +115344,7 @@ while(true)switch(s){case 0:p=q.a
 o=p.Il()
 s=2
 return A.C(o,$async$$0)
-case 2:if(p.b!=null)$.agF().nb("open",["http://testing.simplonsolution.com/","_self"])
+case 2:if(p.b!=null)$.agF().nb("open",["https://test-diag.saharux.com/","_self"])
 return A.x(null,r)}})
 return A.y($async$$0,r)},
 $S:11}
@@ -115429,7 +115429,7 @@ n=p.Im(q.c,o)
 s=2
 return A.C(n,$async$$0)
 case 2:if(p.w==="1"){A.aN("TOus est bene")
-$.agF().nb("open",["http://testing.simplonsolution.com/formulaire-view-sonde/"+o,"_self"])}return A.x(null,r)}})
+$.agF().nb("open",["https://test-diag.saharux.com/formulaire-view-sonde/"+o,"_self"])}return A.x(null,r)}})
 return A.y($async$$0,r)},
 $S:11}
 A.Uy.prototype={
